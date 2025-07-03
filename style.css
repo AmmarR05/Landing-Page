@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+body {
+    body {
+            font-family: 'Roboto', sans-serif;
+        }
+}
+.parent1 {
+    background-color: #1f2937;
+    height: 450px;
+    
+}
+.par2 {
+
+    display: flex;
+    justify-content:space-around;
+    
+
+}
+.par2 p {
+    font-size: 24px;
+    color: #f9faf8;
+}
+a {
+    font-size: 18px;
+    color: #f9faf8a1;
+    text-decoration: none;
+    ;
+}
+.par2 div {
+    display: flex;
+    gap: 20px;
+    
+}
+.par3 .awesome {
+    font-size: 48px;
+    color: #f9faf8;
+    width: 400px;
+    
+}
+.par3 {
+    display: flex;
+    margin-top: 100px;
+    justify-content:space-evenly;
+    margin-left:300px ;
+    
+}
+img {
+    width: 500px;
+    height: 200px;
+    margin-right:210px;
+}
+.subtext {
+    color: #f9faf8a1;
+    width: 360px;
+    height: auto;
+}
+.Sign {
+    background-color: blue;
+    width: 50px;
+    height: 20px;
+    padding: 3px 20px;
+    color: white;
+    border-radius: 8px;
+    margin-top:9px ;
+}
