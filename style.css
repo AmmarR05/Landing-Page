@@ -203,3 +203,13 @@ h1 {
     padding: 0;
     color: rgba(255, 255, 255, 0.719);
 }
+.f-par {
+    background-color: #1f2937;
+    height: 12%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.f-par p {
+    color: rgba(255, 255, 255, 0.764);
+}
